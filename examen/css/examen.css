@@ -1,0 +1,75 @@
+
+
+.cont1{
+    
+    background-color: green;
+    
+
+    
+    
+}
+
+.logo{
+    width: 80px;
+}
+
+.cont2{
+    background-color: green;
+    padding: 4px;
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.cont3{
+    background-color: #fcf5ca;
+    margin-bottom: 5px;
+    
+    
+}
+
+.contfull{
+    margin-bottom: 12px;
+    
+
+}
+
+.cont4{
+    width: 400px;
+    height: 250px;
+    display: inline-block;
+    text-align: center;
+    
+    
+
+}
+
+.cont5{
+
+    width: 100px;
+    height: 100px;
+    background-color: rosybrown;
+    display: inline-block;
+    text-align: center;
+    
+
+
+}
+
+.footer{
+    background-color: #fcf5ca;
+    height: 90px;
+    text-align: center;
+    
+}
+
+.cont8{
+    width: 360px;
+    margin-left: 20px;
+    height: 60px;
+    background-color: forestgreen;
+    margin-bottom: 1px;
+    
+
+}
